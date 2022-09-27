@@ -1,6 +1,5 @@
 # Random
 
-readme pour mon projet random
 
 ## Installation
 
