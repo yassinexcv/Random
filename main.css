@@ -35,6 +35,8 @@ a{color:inherit;text-decoration:none} */
 
 	padding:90px 70px 50px 70px;
 	background:rgba(0,0,0,0.5);
+	overflow: auto;
+
 }
 
 p
